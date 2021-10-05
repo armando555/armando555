@@ -7,3 +7,38 @@
 
 
 <!--START_SECTION:waka-->
+## Profile
+
+I am a systems engineering student focused on software development, software infrastructure and information technology. I am constantly learn new things in my area to solve problems with the best possible way out.
+
+## Skills
+
+Software development and architecture
+
+Problem resolution
+
+Agile processes
+
+Back-end development
+
+Linux
+
+Git
+
+C#
+
+SQL
+
+English (B1)
+
+Teamwork
+
+Communication
+
+Python
+
+HTML
+
+PHP
+
+Autodidact
