@@ -13,32 +13,4 @@ I am a systems engineering student focused on software development, software inf
 
 ## Skills
 
-Software development and architecture
-
-Problem resolution
-
-Agile processes
-
-Back-end development
-
-Linux
-
-Git
-
-C#
-
-SQL
-
-English (B1)
-
-Teamwork
-
-Communication
-
-Python
-
-HTML
-
-PHP
-
-Autodidact
+Software development and architecture, Problem resolution, Agile processes, Back-end development, Linux, Git, PHP, SQL, Python, C#, HTML, English (B1), Teamwork, Communication, Autodidact
