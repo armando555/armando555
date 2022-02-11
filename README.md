@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 ## Profile
 
-I am a systems engineering student focused on software development, software infrastructure and information technology. I am constantly learn new things in my area to solve problems with the best possible way out.
+I am a pro-active person with an attitude to face new challenges or solve problems, used to teamwork and under pressure. I have experience in the web environment, both in development with an emphasis on back-end and cloud deployment, with development tools such as Laravel, Flask, .NET, and in the AWS and GCP cloud environment. I attach great importance to compliance with the previously established dates of deliveries but with flexibility to changes if necessary, in turn good programming practices. In addition, I like the continuous learning of new technologies, adapting to change easily. I consider the responsible use of technologies and data processing as a responsibility of the engineer.
 
 ## Skills
 
-Software development and architecture, Problem resolution, Agile processes, Back-end development, Linux, Git, PHP, SQL, Python, C#, HTML, English (B1), Teamwork, Communication, Autodidact
+Software development and architecture, Problem resolution, Agile processes, Back-end development,  PHP, Python, Laravel, Flask, MYSQL, MARIADB, AWS(ec2, vpc, subnets,elastic ip, RDS), GCP(EC2), Linux, Excel, ASP.NET Core, Docker, Virtual Machines, English (B1), Teamwork, Communication, Autodidact
