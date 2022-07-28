@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ## Profile
 
-I am a pro-active person with an attitude to face new challenges or solve problems, used to teamwork and under pressure. I have experience in the web environment, both in development with an emphasis on back-end and cloud deployment, with development tools such as Laravel, Flask, .NET, and in the AWS and GCP cloud environment. I attach great importance to compliance with the previously established dates of deliveries but with flexibility to changes if necessary, in turn good programming practices. In addition, I like the continuous learning of new technologies, adapting to change easily. I consider the responsible use of technologies and data processing as a responsibility of the engineer.
+I am a pro-active person with an attitude to face new challenges or solve problems, used to working under pressure. I have experience in the web environment, both in development with an emphasis on back-end and cloud deployment, with development tools such as Flask, Django, Laravel, .NET, and in the AWS and GCP cloud environment using Docker and Nginx http server. I attach great importance to compliance with previously established delivery dates, as well as good scheduling practices. In addition, I like the continuous learning of new technologies and roles, adapting to change easily. I consider the responsible use of technologies and data processing as a responsibility of the engineer
 
 ## Skills
 
