@@ -11,6 +11,7 @@
 [<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg" style="padding-right:10px;" />](http://www.linkedin.com/in/armando-r%C3%ADos-gallego-a3395b1b3#gh-light-mode-only)
 [<img align="left" alt="instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/ariosg55#gh-light-mode-only)
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
