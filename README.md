@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ArmandoRosGall1#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](http://www.linkedin.com/in/armando-r%C3%ADos-gallego-a3395b1b3#gh-light-mode-only)
-[![website](./img/instagram-light.svg)](https://instagram.com/ariosg55#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg)](https://twitter.com/ArmandoRosGall1#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg)](http://www.linkedin.com/in/armando-r%C3%ADos-gallego-a3395b1b3#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg)](https://instagram.com/ariosg55#gh-light-mode-only)
 
 ### Languages and Tools:
 
@@ -26,9 +26,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linux.svg" style="padding-right:10px;" />
 <img align="left" alt="Jmeter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/apachejmeter.svg" style="padding-right:10px;" />
 
