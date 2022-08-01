@@ -7,10 +7,9 @@
 - ⚡ Fun fact: I love to dance tropical music
 
 ### Connect with me:
-
-[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg)](https://twitter.com/ArmandoRosGall1#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg)](http://www.linkedin.com/in/armando-r%C3%ADos-gallego-a3395b1b3#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg)](https://instagram.com/ariosg55#gh-light-mode-only)
+[<img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg" style="padding-right:10px;" />](https://twitter.com/ArmandoRosGall1#gh-light-mode-only)
+[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg" style="padding-right:10px;" />](http://www.linkedin.com/in/armando-r%C3%ADos-gallego-a3395b1b3#gh-light-mode-only)
+[<img align="left" alt="instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/ariosg55#gh-light-mode-only)
 
 ### Languages and Tools:
 
