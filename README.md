@@ -1,9 +1,9 @@
 ### Hi there, I'm Armando.👋
 
-## I'm a developer and performance engineer.
+## I'm a developer and devops junior engineer
 - 🔭 I'm looking for new knowledge in different roles and technologies
-- 🌱 I'm currently learning enligsh and performance engineer
-- 🥅 2022 Goals: Leran more about automation with Jenkins, Docker, and Python
+- 🌱 I'm currently learning enligsh and Software Architecture and Networking
+- 🥅 2023 Goals: Learn more about Infrastructure and Sofware Architecture and Networking
 - ⚡ Fun fact: I love to dance tropical music
 
 ### Connect with me:
