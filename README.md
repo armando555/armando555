@@ -1,9 +1,9 @@
 ### Hi there, I'm Armando.👋
 
 ## I'm a developer and devops junior engineer
-- 🔭 I'm looking for new knowledge in different roles and technologies
+- 🔭 I'm building my own company
 - 🌱 I'm currently learning enligsh and Software Architecture and Networking
-- 🥅 2023 Goals: Learn more about Infrastructure and Sofware Architecture and Networking
+- 🥅 2024 Goals: Learn more about Infrastructure and Sofware Architecture and Networking
 - ⚡ Fun fact: I love to dance tropical music
 
 ### Connect with me:
