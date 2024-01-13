@@ -14,7 +14,7 @@
 <br /><br />
 ### Languages and Tools:
 <img align="left" alt="FastApi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fastapi.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" style="padding-right:10px;" />
+<img align="left" alt="SQLServer" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -41,4 +41,4 @@
 Software development and architecture, Problem resolution, Agile processes, Back-end development, English (B1), Teamwork, Communication, Autodidact
 
 ## Abstract
-I am a pro-active person with an attitude to face new challenges or solve problems, used to working under pressure. I have experience in the web environment, both in development with an emphasis on back-end and cloud deployment, with development tools such as FastAPI, .NET, SQL Server 2016 and in the AWS using Docker and Nginx http server. I attach great importance to compliance with previously established delivery dates, as well as good scheduling practices. In addition, I'm currently working in Perfomance Engineering with Jmeter, Docker and Jenkins. Finally, I like the continuous learning of new technologies and roles, adapting to change easily. I consider the responsible use of technologies and data processing as a responsibility of the engineer.
+I am a pro-active person with an attitude to face new challenges or solve problems, used to working under pressure. I have experience in the web environment, both in development with an emphasis on back-end and cloud deployment, with development tools such as FastAPI, .NET, SQL Server 2016, ExpressJS and in the AWS cloud environment using Docker and Nginx http server for load balancing or reverse proxy. I attach great importance to compliance with previously established delivery dates, as well as good scheduling practices. In addition, I'm currently working in Perfomance Engineering with Jmeter, Docker and Jenkins. Finally, I like the continuous learning of new technologies and roles, adapting to change easily. I consider the responsible use of technologies and data processing as a responsibility of the engineer.
